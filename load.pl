@@ -1,7 +1,6 @@
 #!/usr/bin/perl -w
 #version 1.4.1
 #2013-05-15
-#hdh@amazon.com
 
 use strict;
 use warnings;
